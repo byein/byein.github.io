@@ -1,2 +1,0 @@
-# SE_TEAM_PRJ
-# TEAM 24
