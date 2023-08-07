@@ -44,7 +44,7 @@
 |2021.09 ~ 2021.12|[PandI](https://github.com/byein/PandI)|반려동물 동반장소 찾기, 정보공유 웹사이트|
 |2022.02 ~ |[배달메이트](https://github.com/BaedalMate/BaedalMate_iOS)|함께 배달 시킬사람을 모집하는 단체주문 모집 커뮤니티 서비스|
 |2022.03 ~ 2022.05|[TodoList](https://github.com/byein/TodoList_ReactPilot)|Todo List 프론트엔드 사이트|
-|2022.04 ~ 2022.11|[딥러닝, 머신러닝을 이용한 롤 TROLL러 찾기 및 듀오 매칭 플랫폼[22_HF298]](https://github.com/byein/Troller)|머신러닝을 이용한 롤 트롤 확률 기반 유저 추천 서비스|
+|2022.04 ~ 2022.11|[Hoxy... Troll?](https://github.com/byein/Troller)|머신러닝을 이용한 롤 트롤 확률 기반 유저 추천 서비스 (딥러닝, 머신러닝을 이용한 롤 TROLL러 찾기 및 듀오 매칭 플랫폼[22_HF298])|
 |2023.01 ~ 2023.06|[Aboutrip](https://github.com/ABOUTRIP)|여행 관련 정보 제공 웹사이트|
 # 🧑‍💻 Experience 
 
